@@ -8,6 +8,9 @@
 
 ## Installation
 Clone repository
+```
+git clone git@github.com:elyamanukyan/ibm-cloud-sentiment-analyze-hackernews.git
+```
 
 In project root dir, install dependencies:
 ```
